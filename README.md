@@ -2,6 +2,20 @@
 
 ytchapters2json is a Python command-line tool that converts YouTube chapter timestamps to a `chapters.json` file in the `application/json+chapters` format for Podcasting 2.0.
 
+<!-- jooray-links:start -->
+### More from me
+
+**Related projects**
+
+- [video-slide-extractor](https://github.com/jooray/video-slide-extractor): extract slide keyframes from videos
+- [video-summarizer](https://github.com/jooray/video-summarizer): summarize video transcripts with the Venice API
+- [mindvalley-dl](https://github.com/jooray/mindvalley-dl): example of scraping media from the web
+
+**Full project showcase:** [all my projects](https://juraj.bednar.io/showcase/).
+
+I write about building things on [my blog](https://juraj.bednar.io/en/blog-en/). I also wrote a cypherpunk novel, [Tamers of Entropy](https://tamersofentropy.net/), and there is a [trailer](https://tamersofentropy.net/#trailer).
+<!-- jooray-links:end -->
+
 ## Features
 
 - Converts chapters from a text file or stdin.
